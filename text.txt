@@ -1,0 +1,16 @@
+
+// This is a JavaScript comment
+
+// Define a variable
+let greeting = "Hello, World!";
+
+// Print the greeting to the console
+console.log(greeting);
+
+// Create a function
+function sayHello(name) {
+  console.log("Hello, " + name + "!");
+}
+
+// Call the function
+sayHello("John");
